@@ -12,4 +12,3 @@ export function createGetter(path) {
     return (i < pathArr.length - 1) ? rec(obj[pathArr[i++]]) : obj[pathArr[i]];
   };
 }
-
