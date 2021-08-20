@@ -3,7 +3,7 @@
 Необходимо реализовать компонент "ColumnChart" цель которого показывать статистику продаж
 в графическом виде на главной странице [проекта](https://course-js.javascript.ru/) 
 
-!["ColumnChart"](column-chart.png)
+!["ColumnChart"](public/column-chart.png)
 
 [Демо](https://column-chart-skeleton.glitch.me/)
 
